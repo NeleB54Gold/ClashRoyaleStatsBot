@@ -27,8 +27,6 @@ For the translations you can use the translations.json file, you can use redis f
 
 [⭐️ Rate on @BotsArchive](https://t.me/BotsArchive/101)
 
-[📲 Help with Translations](https://nelebots.oneskyapp.com/collaboration/translate/project/project/172063/)
-
 ### About NeleBots
 
 [📢 Telegram Channel](https://t.me/NeleBots)
